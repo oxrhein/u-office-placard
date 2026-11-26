@@ -29,7 +29,7 @@ from pathlib import Path
 ENTRY_LINE = (
     "Communal Microwave, c. 2016. Enamelled steel, faintly of fish. "
     "Ritual vessel where offerings were reheated until the tribe fled. "
-    "Donated by Facilities, who deny all knowledge."
+    "Donated by Facilities, who deny everything."
 )
 
 
